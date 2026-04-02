@@ -1,0 +1,9 @@
+# Runtime
+*.log
+__pycache__/
+*.pyc
+
+# Local install artifacts (these live on each user's machine, not in the repo)
+.venv/
+.repo/
+version.txt
